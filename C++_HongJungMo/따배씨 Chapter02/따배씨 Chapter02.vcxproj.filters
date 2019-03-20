@@ -13,5 +13,45 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Lecture">
+      <UniqueIdentifier>{cfa94dc4-e88e-43ea-84fb-6c08d3d64fce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\Lecture">
+      <UniqueIdentifier>{91362d08-98d1-41ac-85f0-ab33af4f2dd7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2_1_기본_자료형_소개.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2_2_정수형.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="2_3_C++11_고정_너비_정수.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="2_4_무치형_보이드_Void.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="2_1_기본_자료형_소개.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="2_2_정수형.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="2_4_무치형_보이드_Void.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="2_3_C++11_고정_너비_정수.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
