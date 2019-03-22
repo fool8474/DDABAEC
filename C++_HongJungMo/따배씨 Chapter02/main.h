@@ -1,7 +1,12 @@
 #include <iostream>
 #include <math.h>
 #include <limits>
-#include "2_1_기본_자료형_소개.h"
-#include "2_2_정수형.h"
-#include "2_3_C++11_고정_너비_정수.h"
-#include "2_4_무치형_보이드_Void.h"
+//#include "2_1_기본_자료형_소개.h"
+//#include "2_2_정수형.h"
+//#include "2_3_C++11_고정_너비_정수.h"
+//#include "2_4_무치형_보이드_Void.h"
+//#include "2_5_부동소수점_수.h"
+//#include "2_6_불리언_자료형과_조건문_if.h"
+//#include "2_7_문자형_char_type.h"
+//#include "2_8_리터럴_상수.h"
+//#include "2_9_심볼릭_상수.h"

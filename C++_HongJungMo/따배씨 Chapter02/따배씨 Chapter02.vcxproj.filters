@@ -36,6 +36,21 @@
     <ClCompile Include="2_4_무치형_보이드_Void.cpp">
       <Filter>소스 파일\Lecture</Filter>
     </ClCompile>
+    <ClCompile Include="2_5_부동소수점_수.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="2_6_불리언_자료형과_조건문_if.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="2_7_문자형_char_type.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="2_8_리터럴_상수.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="2_9_심볼릭_상수.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -51,6 +66,24 @@
       <Filter>헤더 파일\Lecture</Filter>
     </ClInclude>
     <ClInclude Include="2_3_C++11_고정_너비_정수.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="2_5_부동소수점_수.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="2_6_불리언_자료형과_조건문_if.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="2_7_문자형_char_type.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="2_8_리터럴_상수.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="2_9_심볼릭_상수.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="MY_CONSTANTS.h">
       <Filter>헤더 파일\Lecture</Filter>
     </ClInclude>
   </ItemGroup>
