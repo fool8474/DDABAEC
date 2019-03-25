@@ -12,9 +12,16 @@ void my_func(void)
 
 void What_is_void() {
 
-	//void my_void; // void는 메모리르 차지하지 않아서 선언 안됨
+	//void my_void; // void는 메모리를 차지하지 않아서 선언 안됨
 	void *my_void; //주소이기때문에 가능.
+	// void 형 포인터는 가리키는 자료형이 정해져있지 않으므로 모든 포인터를 저장할 수 있다.
+	int in;
+	double db;
+	void *vp;
+	vp = &in;
+	vp = &db;
 
+	
 	int i = 123; //401호라 가정
 	float f = 123.456f; //402호라 가정
 

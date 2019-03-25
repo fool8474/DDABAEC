@@ -8,7 +8,11 @@ void The_Integers() {
 	short s = 1;
 	int i = 1;
 	long l = 1;
-	long long ll = 1;
+	long long ll = 1; // 64비트 이상의 값을 표현 가능
+	// LLONG_MAX 는 long long 타입의 최대 값 매크로
+	// 정수 리터럴에는 ll 또는 LL을 사용한다.
+	// unsigned의 경우 ull, ULL
+	// int64_t와 같은 모양
 
 	cout << sizeof(short) << endl; // 2 bytes = 2 * 8 bits = 16 bits
 	// short로 표현 가능한 것은 2 ^ 16

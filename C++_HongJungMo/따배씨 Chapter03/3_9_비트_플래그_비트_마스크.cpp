@@ -101,4 +101,5 @@ void Bit_flag_Bit_mask()
 	//RGB를 추출
 	//A도 추출할수있긴하다.
 
+
 }
