@@ -42,6 +42,15 @@
     <ClCompile Include="4_5_형변환_Type_conversion.cpp">
       <Filter>소스 파일\Lecture</Filter>
     </ClCompile>
+    <ClCompile Include="4_6_문자열_std_string_소개.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="4_7_열거형.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="4_9_자료형에게_가명_붙여주기_Type_aliases.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -60,6 +69,15 @@
       <Filter>헤더 파일\Lecture</Filter>
     </ClInclude>
     <ClInclude Include="4_5_형변환_Type_conversion.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="4_6_문자열_std_string_소개.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="4_7_열거형.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="4_9_자료형에게_가명_붙여주기_Type_aliases.h">
       <Filter>헤더 파일\Lecture</Filter>
     </ClInclude>
   </ItemGroup>
