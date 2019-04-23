@@ -129,9 +129,15 @@
     <ClInclude Include="main.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="3_4_sizeof_쉼표_연산자_조건부_연산자.cpp" />
-    <ClCompile Include="3_8_비트단위_연산자_Bitwise_Operators.cpp" />
-    <ClCompile Include="3_9_비트_플래그_비트_마스크.cpp" />
+    <ClCompile Include="3_4_sizeof_쉼표_연산자_조건부_연산자.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="3_8_비트단위_연산자_Bitwise_Operators.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="3_9_비트_플래그_비트_마스크.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

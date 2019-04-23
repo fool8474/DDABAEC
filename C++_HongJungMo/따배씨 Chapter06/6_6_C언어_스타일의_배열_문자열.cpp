@@ -67,5 +67,4 @@ void C_style_array_string2()
 
 	cout << source << endl;
 	cout << dest << endl; // copy this°¡ 2°³³ª!
-
 }
