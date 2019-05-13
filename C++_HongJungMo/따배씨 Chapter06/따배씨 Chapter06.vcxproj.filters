@@ -42,6 +42,24 @@
     <ClCompile Include="6_7_a_Null_Pointer.cpp">
       <Filter>소스 파일\Lecture</Filter>
     </ClCompile>
+    <ClCompile Include="6_8_포인터와_정적_배열.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="6_9_포인터_연산과_배열_인덱싱.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="6_10_C언어_스타일의_문자열_심볼릭_상수.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="6_11_메모리_동적_할당_new_delete.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="6_12_동적_할당_배열.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="6_13_포인터와_const.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -63,6 +81,24 @@
       <Filter>헤더 파일\Lecture</Filter>
     </ClInclude>
     <ClInclude Include="6_7_a_Null_Pointer.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="6_8_포인터와_정적_배열.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="6_9_포인터_연산과_배열_인덱싱.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="6_10_C언어_스타일의_문자열_심볼릭_상수.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="6_11_메모리_동적_할당_new_delete.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="6_12_동적_할당_배열.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="6_13_포인터와_const.h">
       <Filter>헤더 파일\Lecture</Filter>
     </ClInclude>
   </ItemGroup>

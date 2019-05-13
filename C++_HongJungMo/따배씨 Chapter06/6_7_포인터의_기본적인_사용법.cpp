@@ -39,7 +39,7 @@ void Tsukaikata_Of_Pointer()
 	int y = 6;
 
 	typedef int* pint; // 이렇게도 쓸 수 있지만.. (2중, 3중으로 쓸때)
-	int *ptr_x = &x; // 보통 이렇게 쓴다.
+	int* ptr_x = &x; // 보통 이렇게 쓴다.
 	pint pint_ptr_x = &x, pint_ptr_y = &y;
 
 	int* ptr_ex = &x, * ptr_ey = &y; // 이렇게 양쪽다 붙여줘야 함.
