@@ -14,5 +14,12 @@ int main()
 	//C_Lang_Style_Symbolic_Constant();
 	//new_and_delete();
 	//Dynamically_Allocating_Arrays();
-	Pointer_and_const();
+	//Pointer_and_const();
+	//reference_variable();
+	//reference_and_const();
+	//Members_Selection_Operators();
+	//for_each();
+	//void_Pointers();
+	//pp_and_dynamic_multiDem_Array();
+	std_array_Introduce();
 }

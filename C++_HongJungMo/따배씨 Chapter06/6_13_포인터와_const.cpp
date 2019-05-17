@@ -13,7 +13,6 @@ void Pointer_and_const()
 	cout << *ptr << endl; // 돼!
 	
 	int value1 = 5;
-	const int *ptr = &value;
 
 	int value2 = 6;
 	ptr = &value2; // 이건 된다. ptr에 들어간 주소값을 바꾸는걸 못하는게 아님.

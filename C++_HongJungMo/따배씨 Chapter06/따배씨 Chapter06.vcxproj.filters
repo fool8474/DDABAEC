@@ -60,6 +60,30 @@
     <ClCompile Include="6_13_포인터와_const.cpp">
       <Filter>소스 파일\Lecture</Filter>
     </ClCompile>
+    <ClCompile Include="6_14_참조_변수.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="6_15_참조와_const.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="6_16_포인터와_참조의_맴버_선택.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="6_17_C+11_For-each_반복문.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="6_18_void_Pointer.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="6_19_다중_포인터와_동적_다차원_배열.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="6_12_std_array.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
+    <ClCompile Include="6_20_std_array_소개.cpp">
+      <Filter>소스 파일\Lecture</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
@@ -99,6 +123,27 @@
       <Filter>헤더 파일\Lecture</Filter>
     </ClInclude>
     <ClInclude Include="6_13_포인터와_const.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="6_14_참조_변수.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="6_15_참조와_const.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="6_16_포인터와_참조의_맴버_선택.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="6_17_C+11_For-each_반복문.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="6_18_void_Pointer.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="6_20_std_array_소개.h">
+      <Filter>헤더 파일\Lecture</Filter>
+    </ClInclude>
+    <ClInclude Include="6_19_다중_포인터와_동적_다차원_배열.h">
       <Filter>헤더 파일\Lecture</Filter>
     </ClInclude>
   </ItemGroup>
